@@ -31,10 +31,4 @@ FlowMap is an IoT application that leverages Raspberry Pis to send real-time dat
 7. Interact with the data points or geofences to access detailed information or perform specific actions.
 8. Analyze and visualize real-time IoT data on the go with FlowMap!
 
-## Acknowledgments
 
-- This application uses Firebase for real-time data storage and retrieval.
-- Google Maps SDK provides the map visualization capabilities.
-- Special thanks to the Jonathan Joby and others for their valuable contributions.
-
-Feel free to explore the code, contribute, and enhance FlowMap to suit your specific IoT data visualization needs. Happy mapping!
