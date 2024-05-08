@@ -1,7 +1,7 @@
 # Real-time IoT Data Visualization for High-Risk Environmnents
 
 
-FlowMap is an IoT application that leverages Raspberry Pis to send real-time data to Firebase. This data is then processed and displayed on an Android app, graphed onto a Google Map with a geofence. This powerful combination enables seamless visualization and monitoring of IoT data in a geographical context.
+This Project is an IoT application that leverages Raspberry Pis to send real-time data to Firebase. This data is then processed and displayed on an Android app, graphed onto a Google Map with a geofence. This powerful combination enables seamless visualization and monitoring of IoT data in a geographical context.
 
 ## Features
 
